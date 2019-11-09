@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d318184-eb13-4e5b-901e-940ea8397253" name="Default Changelist" comment="" />
+    <list default="true" id="9d318184-eb13-4e5b-901e-940ea8397253" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW2/HW2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW2/src/BUTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW2/src/MergeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab10/Lab10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab10/src/CompareTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/Lab8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/src/HashProbing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab9/Lab9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab9/src/DepthFirstPathsClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TextComplete/Autocomplete.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TextComplete/Autocomplete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TextComplete/BinarySearchDeluxe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TextComplete/BinarySearchDeluxe.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,16 +31,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QI2R0tfX24pSKr1AdnzhRItNqV" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/percolation/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/production/Lab10/single_arrays" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -39,14 +58,15 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out/production/Lab10/single_arrays" />
+      <recent name="$PROJECT_DIR$/percolation/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/percolation/src" />
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -61,31 +81,40 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Term">
-    <configuration name="DequeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DequeClient" />
-      <module name="Lab5" />
+  <component name="RunManager" selected="Application.CompareTwoArrays">
+    <configuration name="BUTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BUTest" />
+      <module name="HW2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyBST" />
-      <module name="Lab7" />
+    <configuration name="CompareTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompareTwoArrays" />
+      <module name="Lab10" />
+      <option name="PROGRAM_PARAMETERS" value="./single_arrays/100B.txt ./single_arrays/100C.txt hash" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyHeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyHeapSort" />
-      <module name="Lab6" />
+    <configuration name="DepthFirstPathsClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DepthFirstPathsClient" />
+      <module name="Lab9" />
+      <option name="PROGRAM_PARAMETERS" value="digraph_test.txt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PQtester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PQtester" />
-      <module name="Lab6" />
+    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Merge" />
+      <module name="HW2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeTest" />
+      <module name="HW2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,28 +127,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Term" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Term" />
-      <module name="TextComplete" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.PercolationStats" />
-      <item itemvalue="Application.DequeClient" />
-      <item itemvalue="Application.PQtester" />
-      <item itemvalue="Application.MyHeapSort" />
-      <item itemvalue="Application.Term" />
-      <item itemvalue="Application.MyBST" />
+      <item itemvalue="Application.Merge" />
+      <item itemvalue="Application.MergeTest" />
+      <item itemvalue="Application.BUTest" />
+      <item itemvalue="Application.DepthFirstPathsClient" />
+      <item itemvalue="Application.CompareTwoArrays" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Term" />
-        <item itemvalue="Application.MyBST" />
-        <item itemvalue="Application.MyHeapSort" />
-        <item itemvalue="Application.PQtester" />
-        <item itemvalue="Application.DequeClient" />
+        <item itemvalue="Application.CompareTwoArrays" />
+        <item itemvalue="Application.DepthFirstPathsClient" />
+        <item itemvalue="Application.BUTest" />
+        <item itemvalue="Application.MergeTest" />
+        <item itemvalue="Application.Merge" />
       </list>
     </recent_temporary>
   </component>
@@ -135,5 +157,34 @@
       <updated>1567443777593</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/HW2/src/MergeTest.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab9/src/DepthFirstPathsClient.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
