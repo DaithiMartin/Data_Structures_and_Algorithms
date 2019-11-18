@@ -2,20 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d318184-eb13-4e5b-901e-940ea8397253" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/HW2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/src/BUTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW2/src/MergeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab10/Lab10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab10/src/CompareTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab8/Lab8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab8/src/HashProbing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9/Lab9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab9/src/DepthFirstPathsClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/Lab11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/src/CheckArraysForDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/src/k_arrays/n100.k4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/src/k_arrays/n10000.k4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/src/k_arrays/n10000.k40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/src/k_arrays/n10M.k4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/src/k_arrays/n10M.k400.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/src/k_arrays/n1M.k40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab11/src/k_arrays/n1M.k400.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordNet/WordNet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordNet/src/Outcast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordNet/src/ShortestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordNet/src/WordNet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab11/CheckArraysForDuplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab11/k_arrays/n100.k4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab11/k_arrays/n10000.k4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab11/k_arrays/n10000.k40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab11/k_arrays/n10M.k4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab11/k_arrays/n10M.k400.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab11/k_arrays/n1M.k40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab11/k_arrays/n1M.k400.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab11/k_arrays/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab11/k_arrays/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WordNet/Outcast.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WordNet/ShortestCommonAncestor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WordNet/WordNet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WordNet/digraph1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WordNet/digraph2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WordNet/hypernyms.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WordNet/outcast10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WordNet/outcast11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WordNet/outcast12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WordNet/outcast17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WordNet/outcast5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WordNet/outcast5a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WordNet/outcast8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WordNet/outcast8a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WordNet/outcast9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/WordNet/synsets.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TextComplete/Autocomplete.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TextComplete/Autocomplete.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TextComplete/BinarySearchDeluxe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TextComplete/BinarySearchDeluxe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Implimentations/QuickFind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Implimentations/QuickUnion.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,10 +110,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CompareTwoArrays">
-    <configuration name="BUTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BUTest" />
-      <module name="HW2" />
+  <component name="RunManager" selected="Application.CheckArraysForDuplicates">
+    <configuration name="CheckArraysForDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckArraysForDuplicates" />
+      <module name="Lab11" />
+      <option name="PROGRAM_PARAMETERS" value="./k_arrays/n10000.k40.txt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,24 +127,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DepthFirstPathsClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DepthFirstPathsClient" />
-      <module name="Lab9" />
-      <option name="PROGRAM_PARAMETERS" value="digraph_test.txt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Merge" />
-      <module name="HW2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeTest" />
-      <module name="HW2" />
+    <configuration name="Outcast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Outcast" />
+      <module name="WordNet" />
+      <option name="PROGRAM_PARAMETERS" value="synsets.txt hypernyms.txt outcast5.txt outcast5a.txt outcast8.txt outcast8a.txt outcast9.txt outcast10.txt outcast11.txt outcast12.txt outcast17.txt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,21 +143,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShortestCommonAncestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShortestCommonAncestor" />
+      <module name="WordNet" />
+      <option name="PROGRAM_PARAMETERS" value="digraph1.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordNet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordNet" />
+      <module name="WordNet" />
+      <option name="PROGRAM_PARAMETERS" value="synsets.txt hypernyms.txt outcast5.txt outcast5a.txt outcast8.txt outcast8a.txt outcast9.txt outcast10.txt outcast11.txt outcast12.txt outcast17.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.PercolationStats" />
-      <item itemvalue="Application.Merge" />
-      <item itemvalue="Application.MergeTest" />
-      <item itemvalue="Application.BUTest" />
-      <item itemvalue="Application.DepthFirstPathsClient" />
       <item itemvalue="Application.CompareTwoArrays" />
+      <item itemvalue="Application.WordNet" />
+      <item itemvalue="Application.Outcast" />
+      <item itemvalue="Application.ShortestCommonAncestor" />
+      <item itemvalue="Application.CheckArraysForDuplicates" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckArraysForDuplicates" />
+        <item itemvalue="Application.Outcast" />
+        <item itemvalue="Application.ShortestCommonAncestor" />
+        <item itemvalue="Application.WordNet" />
         <item itemvalue="Application.CompareTwoArrays" />
-        <item itemvalue="Application.DepthFirstPathsClient" />
-        <item itemvalue="Application.BUTest" />
-        <item itemvalue="Application.MergeTest" />
-        <item itemvalue="Application.Merge" />
       </list>
     </recent_temporary>
   </component>
